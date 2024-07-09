@@ -35,3 +35,6 @@ http://45.160.15.130:2909/play/098
 #EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health
 http://45.160.15.130:2909/play/171
 
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv-new-20202036.jpg" group-title="Cine",Lifetime
+http://181.191.140.2:8000/play/a0i5/index.m3u8
+
