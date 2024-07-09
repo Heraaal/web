@@ -29,3 +29,9 @@ http://45.160.15.130:2909/play/002
 #EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports HD" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports HD
 http://45.160.15.130:2909/play/233
 
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="https://w7.pngwing.com/pngs/678/502/png-transparent-universal-studios-hollywood-universal-s-universal-orlando-studio-tour-logo-universal-studios.png" group-title="Cine",Studio Universal HD
+http://45.160.15.130:2909/play/098
+
+#EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Entretención",Home&Health
+http://45.160.15.130:2909/play/171
+
