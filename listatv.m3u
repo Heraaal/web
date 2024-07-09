@@ -42,3 +42,6 @@ http://177.126.51.9:8001/play/a048
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://cdn.icon-icons.com/icons2/2845/PNG/512/hbo_logo_icon_181389.png" group-title="Cine",HBO HD
 http://45.160.15.130:2909/play/017
 
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/hbo-family-logo-black-and-white.png" group-title="Cine",HBO Family HD
+http://45.160.15.130:2909/play/018
+
