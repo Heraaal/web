@@ -48,3 +48,6 @@ http://45.160.15.130:2909/play/018
 #EXTINF:-1 tvg-id="Estadio TNT" tvg-name="Estadio TNT Sports" tvg-logo="https://somoscelestes.cl/wp-content/uploads/2023/03/FB_IMG_1679268176238.jpg" group-title="Deportes Chile",Estadio TNT Sports
 http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57154
 
+#EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports 2" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports 2
+http://854028012115848149.ofk0601.xyz:80/live/MFCiptv2023.7/dFxQTA3KYGWX/848149.ts
+
